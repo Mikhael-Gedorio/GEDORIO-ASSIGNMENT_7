@@ -1,0 +1,8 @@
+{
+  "CMS": "strapi",
+  "CMS_URL": "https://strapi-org-fair.onrender.com",
+  "CMS_SPACE": "",
+  "CMS_PROJECT": "",
+  "CMS_DATASET": "production",
+  "CMS_TOKEN": ""
+}
